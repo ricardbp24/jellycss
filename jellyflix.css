@@ -1,0 +1,68 @@
+.pageTitleWithDefaultLogo {
+    background-image: url(./jellyfin-idelta.png) !important;
+}
+
+/* Login Page Logo*/
+
+.imgLogoIcon {
+
+content: url(./favicon-idelta-2023-white.png) !important; }
+
+/* Main Drawer Mobile Logo*/
+
+.adminDrawerLogo img {
+
+content: url(./favicon-idelta-2023-white.png) !important; }
+
+/* Home Page Logo*/
+
+.pageTitleWithLogo {
+
+background-image: url(./favicon-idelta-2023-white.png) !important; }
+
+.layout-mobile #itemDetailPage .btnPlay::after {
+  content: "Reproducir";
+}
+
+.layout-mobile #itemDetailPage .btnResume::after {
+  content: "Resumen";
+}
+
+.layout-mobile #itemDetailPage .btnDownload::after {
+  content: "Descargar";
+}
+
+.layout-mobile #itemDetailPage .btnPlayTrailer::after {
+  content: "Trailer";
+}
+
+.layout-mobile #itemDetailPage .btnInstantMix::after {
+  content: "Mix";
+}
+
+.layout-mobile #itemDetailPage .btnShuffle::after {
+  content: "Mezclar";
+}
+
+.layout-mobile #itemDetailPage .btnCancelSeriesTimer::after {
+  content: "Cancelar serie";
+}
+
+.layout-mobile #itemDetailPage .btnCancelTimer::after {
+  content: "Para de grabar";
+}
+
+.layout-mobile #itemDetailPage .btnPlaystate::after {
+  content: "Visto";
+}
+
+.layout-mobile #itemDetailPage .btnUserRating::after {
+  content: "Favorito";
+}
+
+.layout-mobile #itemDetailPage .btnSplitVersions::after {
+  content: "Dividir";
+}
+
+.layout-mobile #itemDetailPage .btnMoreCommands::after {
+  content: "Más contenido";
