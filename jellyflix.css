@@ -66,3 +66,4 @@ background-image: url(./favicon-idelta-2023-white.png) !important; }
 
 .layout-mobile #itemDetailPage .btnMoreCommands::after {
   content: "Más contenido";
+}
