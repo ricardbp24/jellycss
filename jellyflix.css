@@ -6,19 +6,19 @@
 
 .imgLogoIcon {
 
-content: url(./favicon-idelta-2023-white.png) !important; }
+content: url(https://idelta.es/jelly/favicon-idelta-2023-white.png) !important; }
 
 /* Main Drawer Mobile Logo*/
 
 .adminDrawerLogo img {
 
-content: url(./favicon-idelta-2023-white.png) !important; }
+content: url(https://idelta.es/jelly/favicon-idelta-2023-white.png) !important; }
 
 /* Home Page Logo*/
 
 .pageTitleWithLogo {
 
-background-image: url(./favicon-idelta-2023-white.png) !important; }
+background-image: url(https://idelta.es/jelly/favicon-idelta-2023-white.png) !important; }
 
 .layout-mobile #itemDetailPage .btnPlay::after {
   content: "Reproducir";
